@@ -8,7 +8,6 @@ The ChatGPT Customer Service Bot app is a product provided by Heicarbook (here i
 
 **Your use or continued use of our services means that you agree to our collection, use, storage and sharing of your relevant information in accordance with this Privacy Policy.**
 
-If you have any questions about this Privacy Policy or related matters, please go to heicarbook@gmail.com Contact us.
 
 ## 1\. Information we collect
 When we or our third party partners provide services, we may collect, store and use the following information related to you. If you do not provide relevant information, you may not be able to register as our user or enjoy some of the services we provide, or achieve the intended effect of the relevant services.
