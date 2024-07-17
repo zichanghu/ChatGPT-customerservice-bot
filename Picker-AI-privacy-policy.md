@@ -80,3 +80,6 @@ We may amend the terms of this Privacy Policy from time to time. When changes oc
 ## 8\. Protection of minors
 
 We encourage parents or guardians to guide minors under the age of 18 to use our services. We suggest that minors encourage their parents or guardians to read this Privacy Policy, and suggest that minors seek the consent and guidance of their parents or guardians before submitting their personal information.
+
+## 9\.Contact information
+If you have any privacy concerns, please contact our support email at heicarbook@gmail.com 
