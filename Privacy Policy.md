@@ -1,10 +1,10 @@
 # Privacy Policy
-Update date: 2023/1/3
+Update date: 2024/8/3
 Effective date: 2023/1/3
 
 ## introduction
 
-The ChatGPT Customer Service Bot app is a product provided by Heicarbook (here in after referred to as "us"). When you use our services, we may collect and use your relevant information. We hope to explain to you through this Privacy Policy how we collect, use, store and share this information when using our services, and how we provide you with access, update, control and protection of this information. This Privacy Policy is closely related to the ChatGPT Customer Service Bot app service you use. I hope you can read it carefully and make appropriate choices according to the guidance of this Privacy Policy when necessary. The relevant technical terms involved in this Privacy Policy shall be described concisely and concisely as far as possible, and links for further explanation shall be provided for your understanding.
+The HeiChat is a product provided by GenCybers.INC (here in after referred to as "us"). When you use our services, we may collect and use your relevant information. We hope to explain to you through this Privacy Policy how we collect, use, store and share this information when using our services, and how we provide you with access, update, control and protection of this information. This Privacy Policy is closely related to the ChatGPT Customer Service Bot app service you use. I hope you can read it carefully and make appropriate choices according to the guidance of this Privacy Policy when necessary. The relevant technical terms involved in this Privacy Policy shall be described concisely and concisely as far as possible, and links for further explanation shall be provided for your understanding.
 
 **Your use or continued use of our services means that you agree to our collection, use, storage and sharing of your relevant information in accordance with this Privacy Policy.**
 
